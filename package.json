@@ -1,0 +1,22 @@
+{
+  "name": "more-cli",
+  "version": "0.0.1",
+  "description": "CLI to create projects from basic configuration and easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "more",
+    "generator",
+    "command",
+    "line",
+    "interface"
+  ],
+  "author": "Noe Villegas Alva",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.12.2"
+  }
+}
